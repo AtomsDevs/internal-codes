@@ -1,0 +1,6 @@
+{
+  "Code": "APT_NO_CHWN_PERM",
+  "Tags": ["non-blocking", "has-workaround"],
+  "Title": "Apt has No Chown Permissions",
+  "Description": "Apt fails to set permissions for /varl/lib/apt/lists/partial and /varl/lib/apt/lists/auxfiles",
+}

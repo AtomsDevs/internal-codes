@@ -1,6 +1,0 @@
-{
-  "Code": "NO_APT_SANDBOX",
-  "Tags": ["non-blocking", "has-workaround"],
-  "Title": "Apt is not using its Sandbox",
-  "Description": "Apt raise a warning when the _apt user is not available.",
-}
