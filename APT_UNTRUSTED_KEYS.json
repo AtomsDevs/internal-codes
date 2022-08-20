@@ -1,0 +1,6 @@
+{
+  "Code": "APT_UNTRUSTED_KEYS",
+  "Tags": ["blocking", "has-workaround"],
+  "Title": "Apt got Untrusted repository Keys",
+  "Description": "Apt fails to access the repositories due to untrusted keys.",
+}
