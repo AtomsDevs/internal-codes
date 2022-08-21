@@ -1,0 +1,6 @@
+{
+  "Code": "PATH_NOT_DEFINED",
+  "Tags": ["blocking", "has-workaround"],
+  "Title": "Env var PATH is Not Defined",
+  "Description": "Some tools like dpkg fails if PATH is not defined.",
+}
