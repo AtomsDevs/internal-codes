@@ -1,0 +1,6 @@
+{
+  "Code": "FAIL_INIT_ALPM",
+  "Tags": ["non-blocking", "flatpak-only", "has-workaround"],
+  "Title": "Failed to Initialize Alpm library.",
+  "Description": "Pacman fails any command due to a recent glibc version.",
+}
