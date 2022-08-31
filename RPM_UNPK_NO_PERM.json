@@ -1,0 +1,6 @@
+{
+  "Code": "RPM_UNPK_NO_PERM",
+  "Tags": ["blocking", "flatpak-only", "has-workaround"],
+  "Title": "RPM fails Unpack due to No Permissions.",
+  "Description": "Some packages cannot be installed as the RPM cannot be extracted due to missing permissions.",
+}
